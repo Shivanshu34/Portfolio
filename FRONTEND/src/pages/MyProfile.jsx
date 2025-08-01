@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaEnvelope, FaCode, FaChess } from "react-icons/f
 import { SiGeeksforgeeks, SiCodeforces } from "react-icons/si";
 
 const MyProfile = () => {
-  const resumeUrl = "https://res.cloudinary.com/dxhyznlyz/raw/upload/v1753892437/secure-files/ea2owmymb7w7mwjvrhom";
+  const resumeUrl = "https://res.cloudinary.com/dxhyznlyz/raw/upload/v1754039321/secure-files/v6gslmlbgasrzot1aiap";
 
   const hostedProjects = [
     { name: "Wanderlust - Travelling Website", link: "https://wanderlust-wejn.onrender.com/listings" },

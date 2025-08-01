@@ -139,7 +139,7 @@ export default function Home() {
             View GitHub
           </a>
           <a
-            href="https://res.cloudinary.com/dxhyznlyz/raw/upload/v1753892437/secure-files/ea2owmymb7w7mwjvrhom"
+            href="https://res.cloudinary.com/dxhyznlyz/raw/upload/v1754039321/secure-files/v6gslmlbgasrzot1aiap"
             download="Shivanshu_Kumar_Gupta_Resume.pdf"
             className="px-6 py-3 border border-green-400 text-green-400 font-semibold rounded-full hover:bg-green-500 hover:text-black transition duration-300"
           >
